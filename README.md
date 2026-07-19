@@ -2,7 +2,7 @@
 
 **BSc Computer Science student at Manchester Metropolitan University** — predicted First-Class Honours. I build AI agents, full-stack web apps, and data pipelines. Grew up in Blanes on the Costa Brava 🇪🇸 — now based in Manchester, UK.
 
-Currently seeking a **12-month software/AI engineering placement** (2026–2027).
+Currently seeking a **12-month placement** (2026–2027).
 
 ---
 
