@@ -1,6 +1,6 @@
 # Hi, I'm Sadeed 👋
 
-**BSc Computer Science student at Manchester Metropolitan University** — predicted First-Class Honours. I build AI agents, full-stack web apps, and data pipelines. Grew up in Blanes on the Costa Brava 🇪🇸 — now based in Manchester, UK.
+**BSc Computer Science student at Manchester Metropolitan University** — predicted First-Class Honours. I build AI agents, full-stack web apps, and data pipelines. Grew up in Blanes on the Costa Brava 🇪🇸 now based in Manchester, UK.
 
 Currently seeking a **12-month placement** (2026–2027).
 
@@ -38,12 +38,12 @@ Currently seeking a **12-month placement** (2026–2027).
 
 ## 🏆 Highlights
 
-- 🥉 **3rd place** out of 15 teams — Microsoft Embrace AI Hackathon 2025
-- 🎓 **SEO London Finance Academy** — selected as 1 of 200 nationally
-- 🤖 **MMU Multimodal AI Research Intern** — built MLLM-based agents and RAG pipelines using OpenAI SDK, Ollama, and MinerU OCR
-- 🛒 **Digital Development Intern** — built a Cloudflare Worker backend for automated practitioner registration at a GPhC-registered pharmacy; delivered Shopify storefront development across three live stores
+- 🥉 **3rd place** out of 15 teams Microsoft Embrace AI Hackathon 2025
+- 🎓 **SEO London Finance Academy** selected as 1 of 200 nationally
+- 🤖 **MMU Multimodal AI Research Intern** built MLLM-based agents and RAG pipelines using OpenAI SDK, Ollama, and MinerU OCR
+- 🛒 **Digital Development Intern** built a Cloudflare Worker backend for automated practitioner registration at a GPhC-registered pharmacy; delivered Shopify storefront development across three live stores
 - 🏫 **Academic Representative** for 200+ CS students at MMU | **Industry Lead**, MMU Computer Society
-- 🌍 Fluent in **5 languages** — English, Spanish, Catalan, Pashto, Urdu
+- 🌍 Fluent in **5 languages** English, Spanish, Catalan, Pashto, Urdu
 
 ---
 
@@ -64,6 +64,6 @@ Multi-user full-stack web app that tracks visited countries on an interactive SV
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadeedakhtar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://itsakbsadeed.github.io/PersonalPortfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sadeedakhtar04@gmail.com)
